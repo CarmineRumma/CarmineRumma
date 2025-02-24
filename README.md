@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Developer | UI/UX & DevOps Enthusiast**  
 💻 **Tech Stack:** JavaScript, Vue.js, React, Angular, PHP, Ruby on Rails, Java Spring Boot  
-📱 **Mobile Development:** Native iOS ObjectiveC, Swift and SwiftUI; Android Native Java, migrant to Kotlin. Flutter, React Native 
+📱 **Mobile Development:** Native iOS ObjectiveC, Swift and SwiftUI; Android Native Java, migrant to Kotlin. Flutter, React Native
 🛠 **DevOps & Cloud:** Docker, AWS, Google Cloud  
 🔍 **Interests:** ELK Stack, Camunda BPM, Security  
 
