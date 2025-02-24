@@ -18,8 +18,7 @@
 ---
 
 ### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarmineRumma&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![CarmineRumma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarmineRumma&theme=blueberry&hide_border=false)
 
 ---
 
